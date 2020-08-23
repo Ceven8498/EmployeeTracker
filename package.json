@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node start"
   },
-  "author": "",
+  "author": "Chris Even",
   "license": "ISC",
   "dependencies": {
     "asciiart-logo": "^0.2.6",
