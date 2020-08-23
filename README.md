@@ -7,14 +7,14 @@ The application gives yout the following options:
 * Add an employee, role, or department
 * Update an employee role or manager
 * Delete employee, role, or department
-* View department salary budgets
+* Sort employee by Manger
 
 ## Installation
 ---
 1. Run `npm install` to install all dependencies
 2. Run `schema.sql` in MySQLWorkbench
     * (BONUS) Run `seeds.sql` in MySQLWorkbench
-3. Edit MySQL connection properties in the `db/connection.js` object in `employee-tracker.js`
+3. Edit MySQL connection properties in the `db/connection.js`
 
 ## Usage
 ---
