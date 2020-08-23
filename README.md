@@ -19,11 +19,8 @@ The application gives yout the following options:
 ## Usage
 ---
 1. Run `node index` in cmd or chosen Terminal to start the application
-2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers
-
-    ![](images/menu.png)
-
-3. Follow prompt if presented
+2. Run Insomnia at where you have hosted your server.
+3. There are 
 
     ![](images/sample.png)
 
