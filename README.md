@@ -13,8 +13,8 @@ The application gives yout the following options:
 ---
 1. Run `npm install` to install all dependencies
 2. Run `schema.sql` in MySQLWorkbench
-    * (BONUS) Run `seeds.sql` in MySQLWorkbench
-3. Edit MySQL connection properties in the `db/connection.js`
+3. Run `seeds.sql` in MySQLWorkbench
+4. Edit MySQL connection properties in the `db/connection.js`
 
 ## Usage
 ---
