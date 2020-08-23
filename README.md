@@ -18,7 +18,7 @@ The application gives yout the following options:
 
 ## Usage
 ---
-1. Run `node index` to start the application
+1. Run `node index` in cmd or chosen Terminal to start the application
 2. Select from the menu to view, add, remove, or update employees, roles, departments, or managers
 
     ![](images/menu.png)
@@ -36,3 +36,9 @@ The application gives yout the following options:
     * [inquirer](https://www.npmjs.com/package/inquirer) - For the CLI user interface. This will prompt user within the CLI for employee information.
     * [console.table](https://www.npmjs.com/package/console.table) - Used to print MySQL into tables to the console.
     * [mysql2](https://www.npmjs.com/package/mysql2) - Used to connect to the MySQL database and perform queries
+
+* [RepoLink] https://github.com/Ceven8498/EmployeeTracker
+
+## Video Tutorial
+
+* [VideoLink]https://youtu.be/ro6L4QzT3hI
